@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\bin\Debug\net6.0\MonsterDog.exe
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\bin\Debug\net6.0\MonsterDog.deps.json
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\bin\Debug\net6.0\MonsterDog.runtimeconfig.json
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\bin\Debug\net6.0\MonsterDog.dll
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\bin\Debug\net6.0\MonsterDog.pdb
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\MonsterDog.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\MonsterDog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\MonsterDog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\MonsterDog.AssemblyInfo.cs
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\MonsterDog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\MonsterDog.dll
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\refint\MonsterDog.dll
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\MonsterDog.pdb
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\MonsterDog.genruntimeconfig.cache
+C:\Users\user\Desktop\labs\01.01\MonsterDog\MonsterDog\obj\Debug\net6.0\ref\MonsterDog.dll
