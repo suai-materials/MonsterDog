@@ -15,10 +15,10 @@ var task = Task.Run(async delegate
 {
     HashSet<Dog> dogs = new();
     HashSet<Hedgehog> hdogs = new();
+    restart:
     Console.Clear();
     hdogs.Clear();
     dogs.Clear();
-    restart:
     for (int i = 0; i < (WindowsSize.Item1 * WindowsSize.Item2) / 100; i++)
     {
         dogs.Add(new Dog());

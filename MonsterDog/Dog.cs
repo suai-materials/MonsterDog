@@ -11,7 +11,7 @@ public class Dog : Monster
         Color = r > 5 ? ConsoleColor.Yellow : ConsoleColor.Green;
     }
 
-    public override async void BeBorn(int x, int y, int weight)
+    public override void BeBorn(int x, int y, int weight)
     {
         (X, Y, _weight) = (x, y, weight);
         if (weight > 55)
